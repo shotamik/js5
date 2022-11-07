@@ -26,3 +26,54 @@
     width: 100px;
 	margin-bottom: 50px;
 }
+
+.divclass {
+	display: flex;
+	max-width: 100%;
+	background-color: rgb(31, 7, 117);
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	margin: auto;
+
+
+}
+
+.divclass1 {
+	display: flex;
+	background-color: #ffffff;
+	width: 600px;
+	/* margin-right: 50px; */
+	justify-content: space-between;
+	border-radius: 15px;
+	align-items: center;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	height: 150px;
+}
+
+.divclass1 img {
+	height: 100px;
+	width: 80px;
+}
+
+.divclass2 {
+	display: flex;
+	align-items: center;
+	margin-top: 7px;
+}
+
+.house {
+	font-size: 20px;
+}
+
+.charlist {
+	margin-top: 300px;
+}
+
+.card-img {
+	margin-right: 20px;
+}
+
+.divtext{
+	margin-left: 20px;
+}
