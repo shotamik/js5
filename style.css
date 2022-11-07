@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.container {
+	max-width: 1440px;
+	width: 100%;
+	margin: auto;
+}
+
+.btn {
+	border: none;
+	background: darkblue;
+	padding: 20px 30px;
+	color: white;
+	border-radius: 10px;
+	cursor: pointer;
+	margin: 20px auto;
+	display: block;
+}
